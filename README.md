@@ -269,7 +269,7 @@ The `previews/` directory contains supporting charts produced during exploratory
 ### 04. Cancellation Rate Analysis
 
 <p align="center">
-  <img src="preview/Cancellation-Rate-Analysis.png" alt="Cancellation Rate Analysis" width="90%"/>
+  <img src="preview/Cancellation-Rate-by-Hotel-Type.png" alt="Cancellation Rate Analysis" width="90%"/>
 </p>
 
 *Investigation of cancellation rates across the categories included in the visualization.*
