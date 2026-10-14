@@ -253,7 +253,7 @@ The `previews/` directory contains supporting charts produced during exploratory
 ### 02. Booking Share by Category
 
 <p align="center">
-  <img src="preview/Booking-Share-by-Category.png" alt="Booking Share by Category" width="90%"/>
+  <img src="preview/Booking-Share-by-Hotel.png" alt="Booking Share by Category" width="90%"/>
 </p>
 
 *Comparison of booking distribution across the categories represented in the chart.*
@@ -261,7 +261,7 @@ The `previews/` directory contains supporting charts produced during exploratory
 ### 03. Monthly Booking Trends
 
 <p align="center">
-  <img src="preview/Monthly-Booking-Trends.png" alt="Monthly Booking Trends" width="90%"/>
+  <img src="preview/Monthly-Booking-Volume.png" alt="Monthly Booking Trends" width="90%"/>
 </p>
 
 *Examination of monthly booking patterns and potential seasonality.*
