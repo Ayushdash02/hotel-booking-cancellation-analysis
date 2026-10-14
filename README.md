@@ -253,7 +253,7 @@ The `previews/` directory contains supporting charts produced during exploratory
 ### 02. Booking Share by Category
 
 <p align="center">
-  <img src="preview/Booking-Share-by-Hotel.png" alt="Booking Share by Category" width="90%"/>
+  <img src="preview/Booking-Share-by-Hotel-Type.png" alt="Booking Share by Category" width="90%"/>
 </p>
 
 *Comparison of booking distribution across the categories represented in the chart.*
