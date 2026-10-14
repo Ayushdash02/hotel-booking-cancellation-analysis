@@ -245,7 +245,7 @@ The `previews/` directory contains supporting charts produced during exploratory
 ### 01. Exploratory Data Analysis Overview
 
 <p align="center">
-  <img src="previews/EDA-overview.jpg" alt="Exploratory Data Analysis Overview" width="100%"/>
+  <img src="preview/EDA-overview.jpg" alt="Exploratory Data Analysis Overview" width="100%"/>
 </p>
 
 *High-level overview of the dataset and exploratory analysis.*
@@ -253,7 +253,7 @@ The `previews/` directory contains supporting charts produced during exploratory
 ### 02. Booking Share by Category
 
 <p align="center">
-  <img src="previews/Booking-Share-by-Category.png" alt="Booking Share by Category" width="90%"/>
+  <img src="preview/Booking-Share-by-Category.png" alt="Booking Share by Category" width="90%"/>
 </p>
 
 *Comparison of booking distribution across the categories represented in the chart.*
@@ -261,7 +261,7 @@ The `previews/` directory contains supporting charts produced during exploratory
 ### 03. Monthly Booking Trends
 
 <p align="center">
-  <img src="previews/Monthly-Booking-Trends.png" alt="Monthly Booking Trends" width="90%"/>
+  <img src="preview/Monthly-Booking-Trends.png" alt="Monthly Booking Trends" width="90%"/>
 </p>
 
 *Examination of monthly booking patterns and potential seasonality.*
@@ -269,7 +269,7 @@ The `previews/` directory contains supporting charts produced during exploratory
 ### 04. Cancellation Rate Analysis
 
 <p align="center">
-  <img src="previews/Cancellation-Rate-Analysis.png" alt="Cancellation Rate Analysis" width="90%"/>
+  <img src="preview/Cancellation-Rate-Analysis.png" alt="Cancellation Rate Analysis" width="90%"/>
 </p>
 
 *Investigation of cancellation rates across the categories included in the visualization.*
@@ -277,7 +277,7 @@ The `previews/` directory contains supporting charts produced during exploratory
 ### 05. Cancellation Status Distribution
 
 <p align="center">
-  <img src="previews/Cancellation-Status-Distribution.png" alt="Cancellation Status Distribution" width="90%"/>
+  <img src="preview/Cancellation-Status-Distribution.png" alt="Cancellation Status Distribution" width="90%"/>
 </p>
 
 *Comparison of reservation statuses and cancellation outcomes.*
@@ -285,7 +285,7 @@ The `previews/` directory contains supporting charts produced during exploratory
 ### 06. Cancellation Rate Comparison I
 
 <p align="center">
-  <img src="previews/Cancellation-Rate-Comparison-1.png" alt="Cancellation Rate Comparison 1" width="90%"/>
+  <img src="preview/Cancellation-Rate-Comparison-1.png" alt="Cancellation Rate Comparison 1" width="90%"/>
 </p>
 
 *Additional comparison of cancellation behaviour. Update the title to reflect the actual chart dimensions.*
@@ -293,7 +293,7 @@ The `previews/` directory contains supporting charts produced during exploratory
 ### 07. Cancellation Rate Comparison II
 
 <p align="center">
-  <img src="previews/Cancellation-Rate-Comparison-2.png" alt="Cancellation Rate Comparison 2" width="90%"/>
+  <img src="preview/Cancellation-Rate-Comparison-2.png" alt="Cancellation Rate Comparison 2" width="90%"/>
 </p>
 
 *Further investigation of cancellation patterns across relevant booking characteristics.*
@@ -301,7 +301,7 @@ The `previews/` directory contains supporting charts produced during exploratory
 ### 08. Cancellation Rate Comparison III
 
 <p align="center">
-  <img src="previews/Cancellation-Rate-Comparison-3.png" alt="Cancellation Rate Comparison 3" width="90%"/>
+  <img src="preview/Cancellation-Rate-Comparison-3.png" alt="Cancellation Rate Comparison 3" width="90%"/>
 </p>
 
 *Additional cancellation analysis to support segment-level interpretation.*
@@ -309,7 +309,7 @@ The `previews/` directory contains supporting charts produced during exploratory
 ### 09. New versus Repeat Guests
 
 <p align="center">
-  <img src="previews/New-vs-Repeat-Guests.png" alt="New versus Repeat Guest Analysis" width="90%"/>
+  <img src="preview/New-vs-Repeat-Guests.png" alt="New versus Repeat Guest Analysis" width="90%"/>
 </p>
 
 *Comparison of new and repeat guest behaviour, subject to the categories available in the dataset.*
