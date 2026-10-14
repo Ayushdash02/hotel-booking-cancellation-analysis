@@ -309,7 +309,7 @@ The `previews/` directory contains supporting charts produced during exploratory
 ### 09. New versus Repeat Guests
 
 <p align="center">
-  <img src="preview/New-vs-Repeat-Guests.png" alt="New versus Repeat Guest Analysis" width="90%"/>
+  <img src="preview/New-vs-Repeat-Guest-Cancellation.png" alt="New versus Repeat Guest Analysis" width="90%"/>
 </p>
 
 *Comparison of new and repeat guest behaviour, subject to the categories available in the dataset.*
