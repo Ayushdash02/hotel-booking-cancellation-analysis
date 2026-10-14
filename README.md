@@ -285,7 +285,7 @@ The `previews/` directory contains supporting charts produced during exploratory
 ### 06. Cancellation Rate Comparison I
 
 <p align="center">
-  <img src="preview/Cancellation-Rate-Comparison-1.png" alt="Cancellation Rate Comparison 1" width="90%"/>
+  <img src="preview/Cancellation-Rate-by-Lead-Time-Category.png" alt="Cancellation Rate Comparison 1" width="90%"/>
 </p>
 
 *Additional comparison of cancellation behaviour. Update the title to reflect the actual chart dimensions.*
@@ -293,7 +293,7 @@ The `previews/` directory contains supporting charts produced during exploratory
 ### 07. Cancellation Rate Comparison II
 
 <p align="center">
-  <img src="preview/Cancellation-Rate-Comparison-2.png" alt="Cancellation Rate Comparison 2" width="90%"/>
+  <img src="preview/Cancellation-Rate-by-Market-Segment.png" alt="Cancellation Rate Comparison 2" width="90%"/>
 </p>
 
 *Further investigation of cancellation patterns across relevant booking characteristics.*
@@ -301,7 +301,7 @@ The `previews/` directory contains supporting charts produced during exploratory
 ### 08. Cancellation Rate Comparison III
 
 <p align="center">
-  <img src="preview/Cancellation-Rate-Comparison-3.png" alt="Cancellation Rate Comparison 3" width="90%"/>
+  <img src="preview/Cancellation-Rate-by-Stay-Category-&-Hotel-Type.png" alt="Cancellation Rate Comparison 3" width="90%"/>
 </p>
 
 *Additional cancellation analysis to support segment-level interpretation.*
